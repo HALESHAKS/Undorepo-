@@ -1,1 +1,1 @@
-sub of 5 and 2 is 3.
+sub of 5 and 2 is 3. sum of 2 and 5 is 7.
